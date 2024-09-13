@@ -15,8 +15,16 @@
 # estrutura de repetição
 [x] while
 
+# Operadores
+[x] Operadores de atribuição de valor =
+[x] Operador de contatenção +
+[x] Operadores de comparação == != <= >= <  >
+
+
+
 # condicionais
 [x] switch
+[x] if/else
 
 ## módulos em node.js
 
