@@ -11,3 +11,9 @@
 - coletar os dados
 - processar os dados(manipular, alterar...)
 - apresentar os dados
+
+# estrutura de repetição
+[x] while
+
+# condicionais
+[] switch
