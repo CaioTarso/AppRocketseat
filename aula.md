@@ -16,4 +16,4 @@
 [x] while
 
 # condicionais
-[] switch
+[x] switch
