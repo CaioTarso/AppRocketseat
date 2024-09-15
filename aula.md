@@ -23,7 +23,7 @@
 
 ## arrays
 [x] uma lista que contém qualquer tipo de dado
-[x] métodos de array: push. [find, forEach, ffilter] : HOF (Higher Order Functions)
+[x] métodos de array: push. [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 # condicionais
 [x] switch
