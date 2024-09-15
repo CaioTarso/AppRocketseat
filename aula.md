@@ -19,8 +19,11 @@
 [x] Operadores de atribuição de valor =
 [x] Operador de contatenção +
 [x] Operadores de comparação == != <= >= <  >
+[x] Spread operator: ...
 
-
+## arrays
+[x] uma lista que contém qualquer tipo de dado
+[x] métodos de array: push. [find, forEach, ffilter] : HOF (Higher Order Functions)
 
 # condicionais
 [x] switch
