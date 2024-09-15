@@ -29,10 +29,17 @@
 [x] switch
 [x] if/else
 
+## JSON
+
+- [x] Javascript Object Notation (.json)
+- [x] JSON.parse : transforma de JASON para JS
+- [x] JSON.stringfy() : transforma de JS para JSON
+
 ## módulos em node.js
 
 [x]importação de módulos (require, CommonJS)
 [x]Biblioteca 'inquirer' para criar prompts interativos
+[x] FS (file system)
 
 ## Programação assíncrona e Promises
 
